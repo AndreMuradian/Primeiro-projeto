@@ -1,0 +1,66 @@
+*{
+
+    color: rgba(255, 255, 255, 0.938);
+    
+
+}
+
+body{    background-image: linear-gradient(135deg, ForestGreen, Lime ); 
+
+
+
+
+}
+
+.cabeçalho{
+
+
+
+
+}
+
+.titulo{
+
+
+
+
+}
+
+
+.conteudo{display: flex;
+  align-items: stretch;
+
+  
+  gap: 20px;
+ 
+
+    
+}
+
+.blocos4{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    
+    
+}
+
+.bloco1{
+    
+
+
+}
+
+.bloco2{
+
+
+}
+
+.bloco3{
+
+
+}
+
+
+
+
